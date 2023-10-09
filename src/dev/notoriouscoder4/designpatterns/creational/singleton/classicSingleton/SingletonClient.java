@@ -1,4 +1,4 @@
-package dev.notoriouscoder4.designpatterns.creational.singleton.classic;
+package dev.notoriouscoder4.designpatterns.creational.singleton.classicSingleton;
 
 public class SingletonClient {
     public static void main(String[] args) {

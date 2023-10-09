@@ -1,4 +1,4 @@
-package dev.notoriouscoder4.designpatterns.creational.singleton.classicSingleton;
+package dev.notoriouscoder4.designpatterns.creational.singleton.classic;
 
 // NOTE: This is not thread safe!
 public class Singleton {

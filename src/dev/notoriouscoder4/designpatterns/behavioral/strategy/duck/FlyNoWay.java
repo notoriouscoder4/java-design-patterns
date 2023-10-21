@@ -1,4 +1,4 @@
-package dev.notoriouscoder4.designpatterns.behavioral.strategy;
+package dev.notoriouscoder4.designpatterns.behavioral.strategy.duck;
 
 public class FlyNoWay implements FlyBehavior{
     @Override
